@@ -1,1 +1,1 @@
-# nextjs-course
+Next JS course work
