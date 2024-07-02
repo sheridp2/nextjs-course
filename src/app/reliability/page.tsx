@@ -1,3 +1,4 @@
 export default function ReliabilityPage() {
-  return <div>Reliability Page</div>
+  return <div>
+    Reliability Page</div>
 }
